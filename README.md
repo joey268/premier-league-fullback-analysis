@@ -58,7 +58,7 @@ These metrics describe particular aspects of his statistical profile rather than
 
 **Do Premier League full-backs who cross more frequently make fewer defensive actions?**
 
-Originally, this project was just to make the first dashboard but then I got curiosu about a something. Full-backs are often discussed as either attacking or defensive options. This raised a simple question: does greater involvement in one attacking action — crossing — actually correspond with lower defensive activity?
+Originally, this project was just to make the first dashboard but then I got curious about something. Full-backs are often discussed as either attacking or defensive options. This raised a simple question: does greater involvement in one attacking action — crossing — actually correspond with lower defensive activity?
 
 ### Hypothesis
 
