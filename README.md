@@ -188,32 +188,6 @@ The statistical results therefore support a specific conclusion about the relati
 
 ---
 
-## Project Structure
-
-```text
-premier-league-fullback-analysis/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── images/
-│   ├── dashboard.png
-│   └── Attack_vs_Defense.png
-│
-├── powerbi/
-│   └── Premier_League_Fullback_Analysis.pbix
-│
-├── python/
-│   ├── 01_clean_misc.py
-│   ├── 02_load_positions.py
-│   └── 03_analyse_relationships.py
-│
-├── .gitignore
-└── README.md
-```
-
----
 
 ## Future Development
 
