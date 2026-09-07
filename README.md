@@ -19,6 +19,10 @@ The dashboard includes:
 - League-wide full-back rankings
 - Automatically generated player insights
 
+## Dashboard Preview
+
+![Premier League Full-Back Analysis Dashboard](images/dashboard.png)
+
 ## Example: Lewis Hall
 
 The analysis shows Lewis Hall as:
