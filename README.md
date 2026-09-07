@@ -87,14 +87,6 @@ Players are ranked against the other qualifying Premier League full-backs.
 
 For example, a crossing percentile of 85 means the player records a higher crossing rate than approximately 85% of the comparison group.
 
-## Technologies
-
-- Python
-- pandas
-- Power BI
-- DAX
-- Git / GitHub
-
 ## Project Structure
 
     NewcastleAnalytics/
